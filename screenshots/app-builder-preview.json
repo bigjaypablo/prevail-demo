@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Prevail Mobile Detail | Hanford CA Mobile Auto Detailing",
+      "hasCanvas": false,
+      "bodyTextLen": 2817,
+      "bodyTextHash": "ca0bc43626fba9f0d4be7c96bf7595256b9b98430174161559bb295adf071f52",
+      "bodyTextPrefix": "Skip to quote form PREVAIL MOBILE DETAIL Services About Quote (5",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Prevail Mobile Detail | Hanford CA Mobile Auto Detailing",
+      "hasCanvas": false,
+      "bodyTextLen": 2775,
+      "bodyTextHash": "6a8218ff8aa65911fc8515ed164a332fa81c03b162fb39d2726595c358d64aa5",
+      "bodyTextPrefix": "Skip to quote form PREVAIL MOBILE DETAIL Request a Quote HANFORD",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
